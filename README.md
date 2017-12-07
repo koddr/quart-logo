@@ -29,7 +29,20 @@ Text has been written in classical old English font, call [IM FELL English](http
 
 ### Color
 
-* Text — HEX `#000000`, RGB `0, 0, 0`
-* Bottle (glass) — HEX `#BCE3F4`, RGB `188, 227, 244`
-* Bottle (glass elements, shadow) — HEX `#99D5E8`, RGB `153, 213, 232`
-* Bottle (liquid) — gradient from HEX `#FFFF33` (RGB `255, 255, 51`) to HEX `#E83B3B` (RGB `232, 59, 59`)
+Text:
+
+* HEX `#000000`, RGB `0, 0, 0`
+
+Bottle:
+
+* Glass (main) — HEX `#BCE3F4`, RGB `188, 227, 244`
+* Glass elements, shadow — HEX `#99D5E8`, RGB `153, 213, 232`
+
+Cork from the bottle:
+
+* Dark — HEX `#B7895B`, RGB `183, 137, 91`
+* Light — HEX `#C49A6C`, RGB `196, 154, 108`
+
+Liquid in the bottle:
+
+* Gradient from HEX `#FFFF33` (RGB `255, 255, 51`) to HEX `#E83B3B` (RGB `232, 59, 59`)
