@@ -17,9 +17,13 @@
 
 <img width="320" src="https://github.com/koddr/quart-logo/blob/master/src/png/quart_full_logo_color.png">
 
+Download: [SVG](https://github.com/koddr/quart-logo/blob/master/src/svg/quart_full_logo_color.svg), [PNG](https://github.com/koddr/quart-logo/blob/master/src/png/quart_full_logo_color.png)
+
 ## Short logo (color)
 
 <img width="320" src="https://github.com/koddr/quart-logo/blob/master/src/png/quart_short_logo_color.png">
+
+Download: [SVG](https://github.com/koddr/quart-logo/blob/master/src/svg/quart_short_logo_color.svg), [PNG](https://github.com/koddr/quart-logo/blob/master/src/png/quart_short_logo_color.png)
 
 ## Style Guide
 
