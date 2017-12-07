@@ -12,3 +12,24 @@
 
 * SVG files minify by [SVGO](https://github.com/svg/svgo) project with max optimize;
 * PNG files have `600x600` size and `transparent` background.
+
+## Full logo (color)
+
+<img width="320" src="https://github.com/koddr/quart-logo/blob/master/src/png/quart_full_logo_color.png">
+
+## Short logo (color)
+
+<img width="320" src="https://github.com/koddr/quart-logo/blob/master/src/png/quart_short_logo_color.png">
+
+## Style Guide
+
+### Font
+
+Text has been written in classical old English font, call [IM FELL English](https://fonts.google.com/specimen/IM+Fell+English) (by Igino Marini, Principal design).
+
+### Color
+
+* Text — HEX `#000000`, RGB `0, 0, 0`
+* Bottle (glass) — HEX `#BCE3F4`, RGB `188, 227, 244`
+* Bottle (glass elements, shadow) — HEX `#99D5E8`, RGB `153, 213, 232`
+* Bottle (liquid) — gradient from HEX `#FFFF33` (RGB `255, 255, 51`) to HEX `#E83B3B` (RGB `232, 59, 59`)
