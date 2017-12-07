@@ -10,3 +10,5 @@
 
 ## General Information
 
+* SVG files minify by [SVGO](https://github.com/svg/svgo) project with max optimize;
+* PNG files have `600x600` size and `transparent` background.
