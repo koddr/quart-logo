@@ -1,7 +1,7 @@
 # Official [Quart](https://github.com/pgjones/quart) Framework logo (with style guide)
 
 [![Quart logo version](https://img.shields.io/badge/version-2017.12-brightgreen.svg?style=flat-square)](https://github.com/koddr/quart-logo)
-[![Docs complete](https://img.shields.io/badge/style_guide-in_process-yellow.svg?style=flat-square)](https://github.com/koddr/quart-logo)
+[![Docs complete](https://img.shields.io/badge/style_guide-done-brightgreen.svg?style=flat-square)](https://github.com/koddr/quart-logo)
 
 > ### TL;TR
 > 1. [Quart](https://github.com/pgjones/quart) is a Python Asyncio web microframework with the same API as Flask, but 4x faster than Flask.
