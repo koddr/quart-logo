@@ -35,13 +35,13 @@ Text:
 
 Bottle:
 
-* Glass (main) — HEX `#BCE3F4`, RGB `188, 227, 244`
-* Glass elements, shadow — HEX `#99D5E8`, RGB `153, 213, 232`
+* Light elements — HEX `#BCE3F4`, RGB `188, 227, 244`
+* Dark elements — HEX `#99D5E8`, RGB `153, 213, 232`
 
 Cork from the bottle:
 
-* Dark — HEX `#B7895B`, RGB `183, 137, 91`
-* Light — HEX `#C49A6C`, RGB `196, 154, 108`
+* Light elements — HEX `#C49A6C`, RGB `196, 154, 108`
+* Dark elements — HEX `#B7895B`, RGB `183, 137, 91`
 
 Liquid in the bottle:
 
