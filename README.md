@@ -7,6 +7,11 @@
 > 1. [Quart](https://github.com/pgjones/quart) is a Python Asyncio web microframework with the same API as Flask, but 4x faster than Flask.
 > 2. Logo and style guide made by [Vic Shóstak](https://github.com/koddr) for Quart community.
 > 3. All images in this repository have [Creative Commons license](https://creativecommons.org/share-your-work/public-domain/cc0) (CC0 1.0 Universal).
+> 4. If you want to say «thank you», [become a Patron](https://www.patreon.com/bePatron?u=20124951).
+
+## License
+
+MIT
 
 ## General Information
 
