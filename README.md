@@ -1,4 +1,4 @@
-# Official [Quart](https://github.com/pgjones/quart) ASGI web microframework logo (with style guide)
+# Official [Quart](https://github.com/pgjones/quart) ASGI web microframework logo
 
 [![Quart logo version](https://img.shields.io/badge/version-2017.12-brightgreen.svg?style=flat-square)](https://github.com/koddr/quart-logo)
 [![Docs complete](https://img.shields.io/badge/style_guide-done-brightgreen.svg?style=flat-square)](https://github.com/koddr/quart-logo)
