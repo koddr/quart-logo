@@ -5,9 +5,19 @@
 
 ## TL;TR
 
-> 1. [Quart](https://github.com/pgjones/quart) is a Python ASGI web microframework, that allows websites to be written utilising the async await syntax and the familiar Flask API. This is possible as Quart is a re-implementation of the Flask API using async/await and ASGI.
-> 2. Logo and style guide made by [Vic Shóstak](https://github.com/koddr) for Quart community.
-> 3. All images in this repository have [Creative Commons license](https://creativecommons.org/share-your-work/public-domain/cc0) (CC0 1.0 Universal).
+1. [Quart](https://github.com/pgjones/quart) is a Python ASGI web microframework, that allows websites to be written utilising the async await syntax and the familiar Flask API. This is possible as Quart is a re-implementation of the Flask API using async/await and ASGI.
+2. Logo and style guide made by [Vic Shóstak](https://github.com/koddr) for Quart community.
+3. All images in this repository have [Creative Commons license](https://creativecommons.org/share-your-work/public-domain/cc0) (CC0 1.0 Universal).
+
+## Logo story
+
+> The logo itself has a lot of meaning.
+>
+> This is looks like Flask fonts and give us to understand what’s the quart means? Because `1 quart` equal `0.9 litre` (and we’re assuming: full bottle on logo hold one litre, but it’s not full — because hold a quart now).
+>
+> The bung on top of bottle makes it clear — this is production ready Python framework with speed more than Flask, but Flask-like — all in one pack! Get, open (equal install) and use it!
+>
+> Unstable liquid’s state in bottle give us to understand — this liquid is reactivity, like new async features on Python and HTTP/2. And some aggressive gradient’s color of liquid say to us hey, I’m alive and can help you to improve yourself... just use me!
 
 ## General Information
 
