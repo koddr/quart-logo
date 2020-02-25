@@ -63,6 +63,10 @@ Liquid in the bottle:
 - Gradient:
   - from HEX `#FFFF33`, RGB `255, 255, 51`, HSL `60, 100%, 60%`
   - to HEX `#E83B3B`, RGB `232, 59, 59`, HSL `0, 79%, 57%`
+  
+## Real life examples
+
+![t-shirt](https://github.com/koddr/quart-logo/blob/master/src/quart_t-shirt_gray.jpg)
 
 ## Designer
 
@@ -75,7 +79,7 @@ If you want to say «thank you»:
 1. Add a GitHub Star to project.
 2. Twit about project [on your Twitter](https://twitter.com/intent/tweet?text=%F0%9F%96%BC%20Official%20Quart%20ASGI%20Framework%20logo%20%28with%20style%20guide%29%3A%20https%3A%2F%2Fgithub.com%2Fkoddr%2Fquart-logo).
 3. Donate some money to project author via PayPal: [@paypal.me/koddr](https://paypal.me/koddr?locale.x=en_EN).
-4. Join DigitalOcean at our [referral link](https://m.do.co/c/b41859fa9b6e) (your profit is **\$100** and we get \$25).
+4. Join DigitalOcean at our [referral link](https://m.do.co/c/b41859fa9b6e) (your profit is **$100** and we get $25).
 
 ## License
 
