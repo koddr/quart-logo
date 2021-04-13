@@ -11,13 +11,13 @@
 
 ## Logo story
 
-> The logo itself has a lot of meaning.
->
-> This is looks like Flask fonts and give us to understand what’s the quart means? Because `1 quart` equal `0.9 litre` (and we’re assuming: full bottle on logo hold one litre, but it’s not full — because hold a quart now).
->
-> The bung on top of bottle makes it clear — this is production ready Python framework with speed more than Flask, but Flask-like — all in one pack! Get, open (equal install) and use it!
->
-> Unstable liquid’s state in bottle give us to understand — this liquid is reactivity, like new async features on Python and HTTP/2. And some aggressive gradient’s color of liquid say to us hey, I’m alive and can help you to improve yourself... just use me!
+The logo itself has a lot of meaning.
+
+This is looks like Flask fonts and give us to understand what’s the quart means? Because `1 quart` equal `0.9 litre` (and we’re assuming: full bottle on logo hold one litre, but it’s not full — because hold a quart now).
+
+The bung on top of bottle makes it clear — this is production ready Python framework with speed more than Flask, but Flask-like — all in one pack! Get, open (equal install) and use it!
+
+Unstable liquid’s state in bottle give us to understand — this liquid is reactivity, like new async features on Python and HTTP/2. And some aggressive gradient’s color of liquid say to us hey, I’m alive and can help you to improve yourself... just use me!
 
 ## General Information
 
@@ -74,7 +74,7 @@ Liquid in the bottle:
 
 ## Project assistance
 
-If you want to say «thank you»:
+If you want to say thank you:
 
 1. Add a GitHub Star to project.
 2. Twit about project [on your Twitter](https://twitter.com/intent/tweet?text=%F0%9F%96%BC%20Official%20Quart%20ASGI%20Framework%20logo%20%28with%20style%20guide%29%3A%20https%3A%2F%2Fgithub.com%2Fkoddr%2Fquart-logo).
